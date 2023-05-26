@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr3mkum4r" alt="pr3mkum4r" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Html, Css and Javascript**
 
